@@ -4,5 +4,6 @@ Aus Sicht des Clients
 - Angesprochen wird der Server über REST-Aufrufe und als WebDAV-Server.
 - public-key-authentifizierung bzw authentifiationsmethode variabel
 - Client bekommt ein CLI und ist scriptfähig,
+- Ein gewöhnlicher WebDAV Client sollte genügen um auf das DMS zuzugreifen
 - 
 
