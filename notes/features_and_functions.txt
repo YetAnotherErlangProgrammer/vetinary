@@ -1,4 +1,8 @@
+Aus Sicht des Clients
 - Tagging von Dokumenten und Ordnern
 - Ein Ordner kann eine Eigenschaft Ordnertyp haben: Entweder Register, oder Ordner oder Aktenschrank oder Gebäude? Dadurch ändert sich die Darstellung im Client.
 - Angesprochen wird der Server über REST-Aufrufe und als WebDAV-Server.
+- public-key-authentifizierung bzw authentifiationsmethode variabel
+- Client bekommt ein CLI und ist scriptfähig,
+- 
 
