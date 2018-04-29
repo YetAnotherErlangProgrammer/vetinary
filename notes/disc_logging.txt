@@ -1,0 +1,3 @@
+Server und Client loggen Aktivitäten
+
+Das Logging ist konfigurierbar - syslog oder windows Eventlog oder Datei?

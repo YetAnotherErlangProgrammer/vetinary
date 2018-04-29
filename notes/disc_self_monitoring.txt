@@ -1,0 +1,10 @@
+Client und Server 
+
+Welche Parameter können dem Client / Server zum Verhängnis werden?
+- Server: nicht genug freier Speicher auf einem der zugewiesenen permanenten Speicher
+          nicht genug Arbeitsspeicher
+
+- Client: Server ist nicht erreichbar,
+          Server antwortet auf einen Performancetest zu langsam
+          benötigte Bibliotheken / Viewer nicht oder nicht in der richtigen Version installiert.
+
