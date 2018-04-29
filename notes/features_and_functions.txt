@@ -4,5 +4,7 @@ Aus Sicht des Clients
 - Angesprochen wird der Server über REST-Aufrufe und als WebDAV-Server.
 - public-key-authentifizierung bzw authentifiationsmethode variabel
 - Client bekommt ein CLI und ist scriptfähig,
-- 
+
+Aus Sicht des Servers:
+- Verschluesselungsschutz: Das Ändern von Dateien wird reversibel in einer Änderungshistorie gehalten, der Server überwacht, ob Dateiänderungen für "mehrere" Dateien angefordert werden (wie bei einem potentiellen Verschlüsselungstrojaner). Sollte eine Massenänderung angefordert werden, bedingt entweder ein Festschreiben der Änderung einer manuellen Bestätigung oder der Server erstellt einen Point of Return zu dem der Admin der Anwendung zurückkehren kann.
 
